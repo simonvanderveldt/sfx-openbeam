@@ -1,5 +1,7 @@
 # SFX-OpenBeam
 
+![SFX OpenBeam](SFX-OpenBeam.png "SFX OpenBeam")
+
 Fully modular Small Form Factor/Mini-ITX gaming case made using [OpenBeam](http://www.openbeamusa.com/) aluminium extrusions.
 
 Dimensions are 180mm (W) x 330mm (H) x 300mm (D).
