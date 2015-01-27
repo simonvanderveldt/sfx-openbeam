@@ -21,10 +21,10 @@ Dimensions are 180mm (W) x 330mm (H) x 300mm (D).
 ## Details
 
 ### USB 3.0 connectors
-- 2x individual angeld panel mount USB 3.0 female connectors like [these on ebay](http://www.ebay.com/itm/Dual-Port-USB-3-0-A-Female-Angled-Screw-Mount-Panel-to-Motherboard-20Pin-Cable-/301383396815)
+- 2x individual angled panel mount USB 3.0 female connectors like [these on ebay](http://www.ebay.com/itm/Dual-Port-USB-3-0-A-Female-Angled-Screw-Mount-Panel-to-Motherboard-20Pin-Cable-/301383396815)
 
 
 ### Dust filter
 Currently looking at two options:
-- Stainles Steel mesh filter: probably 60x60 mesh, only real info on meshes I could find was on the [XtremeSystems forum](http://www.xtremesystems.org/forums/showthread.php?209801-Some-Wire-Mesh-Filter-Fan-Grill-Testing)
-- Reticulated foam filter: probably 20ppi, info from [Overclock.net forum](http://www.overclock.net/t/1196351/have-you-found-filters-to-fit/20#post_16987513)
+- Stainles Steel mesh filter: probably 60x60 mesh. More info on the [XtremeSystems forum](http://www.xtremesystems.org/forums/showthread.php?209801-Some-Wire-Mesh-Filter-Fan-Grill-Testing)
+- Reticulated foam filter: probably 20ppi. More info on the [Overclock.net forum](http://www.overclock.net/t/1196351/have-you-found-filters-to-fit/20#post_16987513)
